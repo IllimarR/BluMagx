@@ -1,5 +1,5 @@
 # BluMagx
-![](https://img.shields.io/badge/Version-0.9_beta.1-green.svg)
+![](https://img.shields.io/badge/Version-0.9_beta_1-green.svg)
 
 ## Bluetooth Remote Controller for Blackmagic Design cameras.
 
