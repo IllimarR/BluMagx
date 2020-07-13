@@ -1,6 +1,8 @@
 # BluMagx
 Bluetooth Remote Controller for Blackmagic Design cameras.
 
+![Banner](blob/banner.jpg?raw=true)
+
 Tested cameras:
 * Blackmagic Pocket Cinema Camera 4K/6K https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera
 
