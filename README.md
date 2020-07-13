@@ -48,3 +48,5 @@ If this project helped you and you want support BluMagx development:
 
 - BlackMagic Design's awesome [SDK](https://www.blackmagicdesign.com/developer/product/camera)
 - [schoolpost](https://github.com/schoolpost/BlueMagic32) Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy
+
+### Source code will be released after additional testing.
