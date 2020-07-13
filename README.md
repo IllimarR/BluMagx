@@ -31,11 +31,12 @@
 * Wait until flashing is complete, remove USB cable from M5Stack controller
 * Connect USB power to M5Stack/switch on M5Stack to start Bluetooth Remote Controller
 
+# Screenshots
 ![Banner](blob/screenshots.jpg?raw=true)
 
 # Donation
 
-If this project helped you and you want support more cool projects like it:
+If this project helped you and you want support BluMagx development:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K624NH2CJ7TXQ&item_name=BluMagx+development+donation&currency_code=EUR&source=url)
 
