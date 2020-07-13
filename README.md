@@ -1,5 +1,5 @@
 # BluMagx
-![](https://img.shields.io/badge/Version-0.9-beta.1-green.svg)
+![](https://img.shields.io/badge/Version-0.9_beta.1-green.svg)
 
 Bluetooth Remote Controller for Blackmagic Design cameras.
 
@@ -26,6 +26,8 @@ Bluetooth Remote Controller for Blackmagic Design cameras.
 * Click FlashNodeMCU tp start flashing
 * Wait until flashing is complete, remove USB cable from M5Stack controller
 * Connect USB power to M5Stack/switch on M5Stack to start Bluetooth Remote Controller
+
+![Banner](blob/screenshots.jpg?raw=true)
 
 # Acknowledgments
 
