@@ -39,14 +39,13 @@
 ![Banner](blob/screenshots.jpg?raw=true)
 
 # Donation
-
 If this project helped you and you want support BluMagx development:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K624NH2CJ7TXQ&item_name=BluMagx+development+donation&currency_code=EUR&source=url)
 
 # Acknowledgments
-
 - BlackMagic Design's awesome [SDK](https://www.blackmagicdesign.com/developer/product/camera)
 - [schoolpost](https://github.com/schoolpost/BlueMagic32) Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy
 
-### Source code will be released after additional testing.
+### Remarks
+Source code will be released after additional testing.
