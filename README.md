@@ -31,7 +31,7 @@
 4. Select Flash mode **Quad I/O (QIO)**
 5. Select Erase flash **yes**
 6. Click **FlashNodeMCU** to start flashing
-7. Wait until flashing is complete, remove USB cable from M5Stack controller
+7. Wait until flashing is complete, disconnect USB cable from M5Stack controller
 
 * Connect USB power to M5Stack/switch on M5Stack to start Bluetooth Remote Controller
 
