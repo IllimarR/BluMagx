@@ -22,14 +22,17 @@
 ## Installation / flashing
 * Connect M5Stack controller to your computer
 * Launch nodemcu-pyflasher software
-* Select correct Serial port
-* Select previously downloaded BluMagx RemoteController firmware file
-* Select correct baud rate (suggested to use 11520)
-* Select Flash mode Quad I/O (QIO)
-* Select Erase flash yes
-* Click FlashNodeMCU tp start flashing
-* Wait until flashing is complete, remove USB cable from M5Stack controller
+
+1. Select correct Serial port
+2. Select previously downloaded BluMagx RemoteController firmware file
+3. Select correct baud rate (suggested to use 11520)
+4. Select Flash mode Quad I/O (QIO)
+5. Select Erase flash yes
+6. Click FlashNodeMCU to start flashing
+7. Wait until flashing is complete, remove USB cable from M5Stack controller
+
 * Connect USB power to M5Stack/switch on M5Stack to start Bluetooth Remote Controller
+![Banner](blob/NodeMCU_PyFlasher_screenshot.jpg?raw=true)
 
 # Screenshots
 ![Banner](blob/screenshots.jpg?raw=true)
