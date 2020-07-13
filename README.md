@@ -36,5 +36,4 @@
 # Acknowledgments
 
 - BlackMagic Design's awesome [SDK](https://www.blackmagicdesign.com/developer/product/camera)
-- [nkolban](https://github.com/nkolban/esp32-snippets/tree/master/cpp_utils/tests/BLETests/Arduino) BLE examples
 - [schoolpost](https://github.com/schoolpost/BlueMagic32) Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy
