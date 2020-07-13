@@ -13,7 +13,9 @@ Bluetooth Remote Controller for Blackmagic Design cameras.
 * M5Stack ESP32 GREY Development Kit with 9Axis Sensor https://m5stack.com/collections/m5-core/products/grey-development-core
 
 # Installation / flashing:
+## Prerequisites
 * Install CP2104 Driver https://m5stack.com/pages/download
+
 * Download nodemcu-pyflasher software https://github.com/marcelstoer/nodemcu-pyflasher/releases
 * Download BluMagx RemoteController firmware https://github.com/IllimarR/BluMagx/releases/
 * Connect M5Stack controller to your computer
