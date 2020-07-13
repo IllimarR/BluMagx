@@ -25,12 +25,12 @@
 
 ![Banner](blob/NodeMCU_PyFlasher_screenshot.jpg?raw=true)
 
-1. Select correct Serial port
+1. Select correct **Serial port**
 2. Select previously downloaded BluMagx RemoteController firmware file
-3. Select correct baud rate (suggested to use 11520)
-4. Select Flash mode Quad I/O (QIO)
-5. Select Erase flash yes
-6. Click FlashNodeMCU to start flashing
+3. Select correct baud rate (*suggested to use 11520*)
+4. Select Flash mode **Quad I/O (QIO)**
+5. Select Erase flash **yes**
+6. Click **FlashNodeMCU** to start flashing
 7. Wait until flashing is complete, remove USB cable from M5Stack controller
 
 * Connect USB power to M5Stack/switch on M5Stack to start Bluetooth Remote Controller
@@ -47,5 +47,4 @@ If this project helped you and you want support BluMagx development:
 - BlackMagic Design's awesome [SDK](https://www.blackmagicdesign.com/developer/product/camera)
 - [schoolpost](https://github.com/schoolpost/BlueMagic32) Arduino ESP32 Library for connecting to Blackmagic Cameras using Bluetooth Low Energy
 
-### Remarks
-Source code will be released after additional testing.
+###### Source code will be released after additional testing.
